@@ -1,0 +1,138 @@
+
+body{
+    background-image: url('https://cdn.wallpapersafari.com/34/9/sEiXSm.jpg');
+font-family:cursive;
+    background-repeat: no-repeat;
+    width:1960px;
+    height: 1200px;
+    overflow: hidden;
+    font-weight: bolder;
+    margin-bottom: 1000px;
+   
+
+}
+
+
+.boxmain {
+    width: 500px;
+    margin: 10px auto;
+    margin-top: -70px;
+    text-align: center;
+}
+
+.box{
+    width: 500px;
+    margin: 80px  auto;
+    margin-left: 700px;
+    margin-top: 1px;
+
+    padding: 20px;
+    padding-bottom: 0px;
+    text-align: center;
+    font-size: 63px;
+    font-weight: bold;
+    color: rgb(241, 75, 75);
+    text-shadow: 2px 4px black;
+}
+
+
+.inputbox {
+    width: 400px;
+    border: none;
+    outline: none;
+    color: #582233;
+    font-size: 25px;
+    height: 50px;
+    border-radius: 5px;
+    padding: 10px 10px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+.weatherbox {
+    display: none;
+    color: #582233;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgba(255,255,255,0.6);
+    margin-top: 20px;
+
+}
+
+.details{
+    font-weight: bold;
+    color: rgb(36, 36, 123);
+    text-shadow: 2px 4px rgba(237, 14, 14, 0.3);
+    padding: 1px;
+    font-size: 30px;
+
+}
+
+.status {
+    padding: 20px;
+}
+
+.temp {
+    font-size: 65px;
+    font-weight: bold;
+    margin: 5px 0;
+    color: rgb(36, 36, 123);
+    text-shadow: 2px 4px rgba(237, 14, 14, 0.3);
+}
+
+.min-max, .weather {
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(36, 36, 123);
+    text-shadow: 2px 4px rgba(237, 14, 14, 0.3);
+}
+.weather {
+    font-size: 45px;
+    font-weight: bold;
+    color: rgb(36, 36, 123);
+    text-shadow: 2px 4px rgba(237, 14, 14, 0.3);
+}
+
+button {
+    margin: 5px;
+    margin-bottom: 20px;
+    border-radius: 20%;
+    border: none;
+    height: 48px;
+    width: 48px;
+    outline: none;
+    background: white;
+    margin-top: 10px;
+    color: white;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+  }
+  button:hover {
+    background: #b7f2b26b;
+  }
+
+.InputBox{
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+    background: white;
+align-content: center;
+}
+
+ #img{
+width: 250px;
+height: 250px;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
